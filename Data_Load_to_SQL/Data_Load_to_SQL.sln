@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Data_Load_to_SQL", "Data_Load_to_SQL\Data_Load_to_SQL.dtproj", "{D862A893-FAD5-493D-99C4-E0B58FB50787}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Credit_Card_Cube_DB", "Credit_Card_Cube_DB\Credit_Card_Cube_DB.dwproj", "{2ACCA552-958C-4070-A01B-5C269E123ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D862A893-FAD5-493D-99C4-E0B58FB50787}.Development|Default.ActiveCfg = Development
+		{D862A893-FAD5-493D-99C4-E0B58FB50787}.Development|Default.Build.0 = Development
+		{2ACCA552-958C-4070-A01B-5C269E123ED3}.Development|Default.ActiveCfg = Development
+		{2ACCA552-958C-4070-A01B-5C269E123ED3}.Development|Default.Build.0 = Development
+		{2ACCA552-958C-4070-A01B-5C269E123ED3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {303EFFFB-579C-4369-A7CC-81BE71B5571B}
+	EndGlobalSection
+EndGlobal
